@@ -1,7 +1,7 @@
 # Emotion_Music_Recommandation
 About Moodify is an AI-powered music recommendation system that detects a user's facial expression and suggests music that matches their current emotional state. The primary aim of the project is to create a personalized and emotionally responsive music experience using computer vision, deep learning, and music streaming APIs.
 
-Clone this GitHub repo: git clone https://github.com/ksanthosh2907/Emotion_Music_Recommand/
+
 
 Download the Tool: 1.pip install keras 2.pip install tensorflow 3.pip install numpy 4.pip install opencv-python 5.pip install streamlit 6.pip install spotify If tensorflow tool is not download, you can download te python 3.8 version to after to download all all tool to run the project
 
